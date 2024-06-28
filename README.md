@@ -18,7 +18,7 @@ This project is a tutorial for building an API with FastAPI. It includes user ma
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - Virtual environment (recommended)
 
 ### Installation
